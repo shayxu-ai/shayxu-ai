@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shayxu-ai
-- 👀 I’m interested in League of Legends.
-- 🌱 I’m currently learning Kubenetes.
 - 💞️ I’m looking to collaborate on Python projects.
+- 🌱 My motto is 'Curiosity is the priority'.
 - 📫 Email me! yxu9428@163.com.
 <br><br>
 
